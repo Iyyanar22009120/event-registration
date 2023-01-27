@@ -22,9 +22,7 @@ Start making the UI design for web page.
 Start making the UI design for web page.
 
 ## DESIGN: 
-file:///home/sec/square%20root%20of%20a%20number/Iyyanar22009120_copy-file.pdf
--9:0:59:85
-
+![about us page](https://user-images.githubusercontent.com/118680259/215086732-cc3c4f3e-c80a-4694-ab72-8f53bac3dcaf.jpg)
 ## Result:
 
 Hence the UX design for the Event Registration webpage is done.
